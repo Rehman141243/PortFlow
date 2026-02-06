@@ -3,5 +3,6 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "avdmanager.executable": "c:\\Users\\abdul\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe"
 }
