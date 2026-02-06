@@ -165,7 +165,7 @@ export default function SignUpScreen() {
           </Text>
           <TouchableOpacity onPress={() => router.push('/(auth)/Login')}>
             <Text className="text-blue-600 text-sm font-semibold">
-              Sign In
+              Sign In .
             </Text>
           </TouchableOpacity>
         </View>
